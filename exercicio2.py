@@ -10,4 +10,4 @@ def fibonacci(n):
 
 
 numero = int(input("insira um numero")) 
-fibonacci(numero)
+print(fibonacci(numero))
